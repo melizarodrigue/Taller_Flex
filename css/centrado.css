@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:arial;
+}
+
+section {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    height: 625px;
+}
+
+h2{
+    font-weight: bold;
+}
+
+#hola {
+    background-color: rgb(228,230, 230);
+    font-size: 20px;
+    padding: 20px;
+    width: 30%;
+}
